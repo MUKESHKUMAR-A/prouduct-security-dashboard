@@ -1,14 +1,17 @@
-
 [
   {
     "product": "Product A",
-    "open_issues": 12,
-    "avg_age_days": 27
+    "open_issues": 13,
+    "avg_age_days": 28
   },
   {
     "product": "Product B",
-    "open_issues": 4,
-    "avg_age_days": 9
+    "open_issues": 6,
+    "avg_age_days": 15
+  },
+  {
+    "product": "Product C",
+    "open_issues": 1,
+    "avg_age_days": 1
   }
 ]
-

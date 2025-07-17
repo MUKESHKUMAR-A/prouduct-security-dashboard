@@ -1,1 +1,14 @@
 
+[
+  {
+    "product": "Product A",
+    "open_issues": 12,
+    "avg_age_days": 27
+  },
+  {
+    "product": "Product B",
+    "open_issues": 4,
+    "avg_age_days": 9
+  }
+]
+
